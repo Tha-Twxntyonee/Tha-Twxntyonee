@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tha-Twxntyonee
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning data science
-- 💞️ AI Enfineering
+- 💞️ AI Engineering
 
 
 <!---
